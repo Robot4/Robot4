@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm MEHDI</h1>
+<h1 align="center">Hi 👋, I'm Mehdi</h1>
 <h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdzZnZ3dWtiZ3hsOXh2YWZ1cjR3aGk0bTVsZXU4Y3Ftc2lkeXVybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D53qWQ8Ctf44oU5SbE/giphy.gif">
