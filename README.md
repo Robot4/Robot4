@@ -1,5 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif | width=100)
 
 <h1 align="center">Hi 👋, I'm MEHDI</h1>
 <h3 align="center">Software Engineer</h3>
