@@ -1,8 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
-<h1 align="center">Hi 👋, I'm MEHDI</h1>
+
+<h1 align="center">Hey👋, I'm MEHDI</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robot4&label=Profile%20views&color=0e75b6&style=flat" alt="robot4" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robot4" alt="robot4" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://elmehdi-portfolio.netlify.app/](https://elmehdi-portfolio.netlify.app/)
 
